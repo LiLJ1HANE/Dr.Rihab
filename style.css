@@ -96,6 +96,7 @@ section{
 }
 
 .header .navbar a{
+    margin-left: -20;
     font-size: 1.7rem;
     color: var(--black);
     margin: 0 1rem;
